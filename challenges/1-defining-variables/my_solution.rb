@@ -1,7 +1,11 @@
  #Defining Variables
 
 # Tu solucion abajo
-
+# Pseudo codigo =
+# - Defino las variables y le asigno mis datos personales
+first_name = "Daniel"
+last_name = "Morales Perez"
+age = 33
 # Pruebas NO LAS BORRES
 
 describe 'first_name' do
