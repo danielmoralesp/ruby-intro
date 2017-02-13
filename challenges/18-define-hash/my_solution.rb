@@ -1,7 +1,7 @@
 # Define a Hash
 
 # Tu solucion abajo:
-
+my_info = {first_name: "Daniel", last_name: "Morales", hometown: "Medellin", age: 34}
 
 
 # Pruebas NO LAS BORRES
