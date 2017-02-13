@@ -2,10 +2,6 @@
 
 #Tu solucion abajo:
 
-def largest_integer(array)
-  if array.empty?
-    nil
-  else
-    array.max
-  end
+def shortest_string(array)
+  array.min_by(&:length)
 end
